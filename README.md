@@ -4,9 +4,19 @@
 
 ## HTML CSS
 
+1. Band website [Website](https://hemanshueng.github.io/The-band-responsive-website/) [Github code](https://github.com/hemanshuEng/The-band-responsive-website)
+
 #### CSS Grid
 
+1. Web presence [Website](https://hemanshueng.github.io/css-grid/) [Github code](https://github.com/hemanshuEng/css-grid)
+
 ## Sass
+
+1. Tour website Natours [Website](https://hemanshueng.github.io/Natours-Sass-project/) [Github code](https://github.com/hemanshuEng/Natours-Sass-project)
+
+#### SASS Flexbox
+
+1.Hotel & Tour (Trilio) [Website](https://github.com/hemanshuEng/Trilio-Sass-Flexbox) [Github code](https://hemanshueng.github.io/Trilio-Sass-Flexbox/)
 
 #### SASS Grid
 
@@ -20,6 +30,13 @@
 
 ## Javascript
 
+1. Pig Game [Website](https://hemanshueng.github.io/Pig-Game/) [Github code](https://github.com/hemanshuEng/Pig-Game)
+2. Budget App [Website](https://hemanshueng.github.io/bubget-app/) [Github code](https://github.com/hemanshuEng/bubget-app)
+
 ## PHP
 
-## Laravel
+1. CMS using PHP function [Github code](https://github.com/hemanshuEng/CMS)
+
+## Laravel Project
+
+1. Bookmark list App + Postgresql [Github Code](https://github.com/hemanshuEng/laravel_postgre)
