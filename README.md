@@ -48,6 +48,8 @@
 
 1. Bookmark list App + Postgresql [Github Code](https://github.com/hemanshuEng/laravel_postgre)
 2. Ecommerce Restful API [Github Code](https://github.com/hemanshuEng/RestfulApi)
+3. Contact Store [Github Code](https://github.com/hemanshuEng/ContactStore_laravel)
+4. Ecommerce Site (footwear) [Github Code](https://github.com/hemanshuEng/E-commerce-Laravel)
 
 ## React Project
 
