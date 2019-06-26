@@ -43,6 +43,7 @@
 ## PHP
 
 1. CMS using PHP function [Github code](https://github.com/hemanshuEng/CMS)
+2. OOP CMS using PHP [Github code](https://github.com/hemanshuEng/OOPPHP-CMS)
 
 ## Laravel Project
 
