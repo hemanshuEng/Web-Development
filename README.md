@@ -39,6 +39,8 @@
 ## WebPack
 
 1. WebPack Template for javaScript App [Github code](https://github.com/hemanshuEng/webpack-template)
+2. Webpack Template for SASS (autofixer-minify)[Github code](https://github.com/hemanshuEng/webpack-autofixer--minify)
+3. Webpack Custom Bootstrap theme development[Github code](https://github.com/hemanshuEng/webpack-bootstrap)
 
 ## PHP
 
@@ -51,7 +53,13 @@
 2. Ecommerce Restful API [Github Code](https://github.com/hemanshuEng/RestfulApi)
 3. Contact Store [Github Code](https://github.com/hemanshuEng/ContactStore_laravel)
 4. Ecommerce Site (footwear) (ongoing) [Github Code](https://github.com/hemanshuEng/E-commerce-Laravel)
+5. Photshow Gallery [Github Code](https://github.com/hemanshuEng/Photoshow-Gallery)
+6. Itemmanager [Github Code](https://github.com/hemanshuEng/Item-Manager)
+7. CoffeeDrop API [Github Code](https://github.com/hemanshuEng/Coffee-Drop-API)
 
 ## React Project
 
 1. Ecommerce site [Website](https://react-aroma.netlify.com/) [Github code](https://github.com/hemanshuEng/react-ecommerce)
+
+## Wordpress 
+1. www.shapeelectronics.com custom theme wordpress [Website](https://shapeelectronics.com/)
