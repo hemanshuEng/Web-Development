@@ -56,6 +56,8 @@
 5. Photshow Gallery [Github Code](https://github.com/hemanshuEng/Photoshow-Gallery)
 6. Itemmanager [Github Code](https://github.com/hemanshuEng/Item-Manager)
 7. CoffeeDrop API [Github Code](https://github.com/hemanshuEng/Coffee-Drop-API)
+8. TodoList App [Github Code](https://github.com/hemanshuEng/Laravel-ToDolist-app)
+9. Twiitter App [Github Code](https://github.com/hemanshuEng/Twitter-Laravel-app)
 
 ## React Project
 
