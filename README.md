@@ -55,13 +55,24 @@
 4. Ecommerce Site (footwear) (ongoing) [Github Code](https://github.com/hemanshuEng/E-commerce-Laravel)
 5. Photshow Gallery [Github Code](https://github.com/hemanshuEng/Photoshow-Gallery)
 6. Itemmanager [Github Code](https://github.com/hemanshuEng/Item-Manager)
-7. CoffeeDrop API [Github Code](https://github.com/hemanshuEng/Coffee-Drop-API)
+7. CoffeeDrop API [Website](http://tranquil-spire-72556.herokuapp.com/)[API](http://tranquil-spire-72556.herokuapp.com/api/locations)[Github Code](https://github.com/hemanshuEng/Coffee-Drop-API)
 8. TodoList App [Github Code](https://github.com/hemanshuEng/Laravel-ToDolist-app)
 9. Twiitter App [Github Code](https://github.com/hemanshuEng/Twitter-Laravel-app)
+
+## Symfony Project
+
+1. Micro Post App(like Twitter) [Github Code](https://github.com/hemanshuEng/Symfonyproject)
 
 ## React Project
 
 1. Ecommerce site [Website](https://react-aroma.netlify.com/) [Github code](https://github.com/hemanshuEng/react-ecommerce)
+2. React Weather App [Website](https://inspiring-chandrasekhar-43cc93.netlify.com/) [Github code](https://github.com/hemanshuEng/React-Weather-App)
+3. ReduxReact [Website](https://romantic-dubinsky-2aff4d.netlify.com/) [Github code](https://github.com/hemanshuEng/ReduxReact)
+4. React Movie App Material UI(ongoing):[Github code](https://github.com/hemanshuEng/React-Movie-App)
+
+## Vue js
+
+1. Vue js TodoList App:[Website](https://5d66e85648920a70e87907df--eager-jennings-f03fce.netlify.com/) [Github code](https://github.com/hemanshuEng/Vue-js-Todolist)
 
 ## Wordpress
 
