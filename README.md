@@ -1,8 +1,12 @@
 # Web Development
 
 ---
+## Ongoing Project 
+1. Woocommerce api + React [github](https://github.com/hemanshuEng/woocommerce-react)
+2. Ecommerce Site (footwear) (ongoing) [Github Code](https://github.com/hemanshuEng/E-commerce-Laravel)
+3. Wordpress Theme building [github](https://github.com/hemanshuEng/WordpressTheme)
 
-## HTML CSS
+### HTML CSS
 
 1. Band website [Website](https://hemanshueng.github.io/The-band-responsive-website/) [Github code](https://github.com/hemanshuEng/The-band-responsive-website)
 
@@ -77,6 +81,9 @@
 ## Wordpress
 
 1. www.shapeelectronics.com custom theme wordpress [Website](https://shapeelectronics.com/)
+
+## Docker 
+1. Docker + symfony [Github](https://github.com/hemanshuEng/docker-symfony)     
 
 ## internet of thing project
 
